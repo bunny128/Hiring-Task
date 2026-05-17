@@ -1,0 +1,19 @@
+# config.py
+
+FORM_KEYWORDS = [
+    "FORM",
+    "BID FORM",
+    "APPLICATION FORM",
+    "PRICE BID",
+    "TECHNICAL BID"
+]
+
+ANNEXURE_KEYWORDS = [
+    "ANNEXURE",
+    "ANNEX",
+    "APPENDIX",
+    "SCHEDULE",
+    "ENCLOSURE"
+]
+
+MIN_TEXT_THRESHOLD = 20
