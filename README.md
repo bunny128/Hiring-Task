@@ -39,7 +39,7 @@ pip install -r requirements.txt
 Run the parser:
 
 ```bash
-python3 main.py "sample pdf/Tender.pdf"
+python3 main.py "sample_pdf/Tender.pdf"
 ```
 
 You can also pass any tender PDF path:
